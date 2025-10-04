@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniConsole", "MiniConsole\MiniConsole.csproj", "{E62730D2-3AB0-4AA1-AB21-87261C873244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62730D2-3AB0-4AA1-AB21-87261C873244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62730D2-3AB0-4AA1-AB21-87261C873244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62730D2-3AB0-4AA1-AB21-87261C873244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62730D2-3AB0-4AA1-AB21-87261C873244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9291A81F-07FD-45AF-B528-4CBC941DE475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9291A81F-07FD-45AF-B528-4CBC941DE475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9291A81F-07FD-45AF-B528-4CBC941DE475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9291A81F-07FD-45AF-B528-4CBC941DE475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D2FD25-185B-4DFE-B00E-DE3BBC8F2DFF}
+	EndGlobalSection
+EndGlobal
